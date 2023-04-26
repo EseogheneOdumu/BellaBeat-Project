@@ -9,5 +9,7 @@ Data used in this analysis is a Public Domain dataset from Kaggle called FitBit 
 
 # Tools Used
 Excel – For cleaning and sorting the data
+
 SQL Server – For querying and analyzing the data
+
 PowerBi & Tableau – For visualizing
