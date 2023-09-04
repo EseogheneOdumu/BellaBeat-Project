@@ -14,4 +14,14 @@ SQL Server – For querying and analyzing the data
 
 PowerBi & Tableau – For visualizing
 
+# Key Findings
+* Data was collected from 33 participants, this is a very small sample which creates data bias. Not all users use sleep tracker and weight log. Weight log is the least popular function of FitBit. It could mean that it’s not easy to use or not relevant to users.
+We can see that users are more active between 8am and 7pm. Walking more steps during lunch time from 12pm to 2pm and evenings from 5pm and 7pm. The least active time was at night.
+We can see that users are fairly distributed by their activity considering the daily amount of steps. We can determine that based on users activity all kind of users wear smart-devices.
+I’ve checked what days were the most and the least active (people have taken the most/least steps) to see whether it correlates with weekends/weekdays. There’s no visible correlation between the number of steps and weekends/weekdays. 
+On our analysis we didn't just check trends on daily users habits we also realized that just 50% of the users use their device on a daily basis
+We can see that more steps were taken by very active users which correlates with more calories being lost/used up by very active users
+ Users walk daily the recommended amount of steps of 7500 besides Friday, Thursday and Sunday's. Users don't sleep the recommended amount of minutes/ hours - 8 hours.
+
+
 
