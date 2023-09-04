@@ -1,4 +1,6 @@
 # BellaBeat-Project
+![image](https://github.com/EseogheneOdumu/BellaBeat-Project/assets/102369330/50b45fb0-fc29-460c-a3e1-d2785e931d4d)
+
 
 # About
 Bellabeat is a high-tech company that manufactures health-focused smart products. They offer different smart devices that collect data on activity, sleep, stress, and reproductive health to empower women with knowledge about their own health and habits.
