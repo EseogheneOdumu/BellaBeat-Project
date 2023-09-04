@@ -26,9 +26,9 @@ PowerBi & Tableau – For visualizing
 
 # Recommendations
 * Further analysis, preferably a survey, needed to check why the weight log is not popular (questions about the relevance of the function, ease of use etc.) and why the participants didn’t track their steps every day (questions about the battery life, relevance of the function, charging system, design of the device, etc.)
-* Bellabeat could use push messages about the risks of high sedentary time, health benefits of 7,500 steps etc. to make users more active during the day, outside of the 17–19-time window. As CDC explains, the more steps you walk the lower is the mortality rate.
-* Users sleep less than 8 hours a day. They could set up a desired time to go to sleep and receive a notification minutes before preparing to sleep. Also offer helpful resources to help customers sleep - ex. breathing advice, podcasts with relaxing music, sleep techniques.
-* We are aware that some people don't get motivated by notifications so we could create a kind of game on our app for a limited period. Game would consist in reaching different levels based on number of steps walked every day. You need to maintain activity level for a period (maybe a month) to pass to the next level. For each level you would win a certain number of stars that would be redeemable for merchandise or discount on other Bellabeat products.
+* Bellabeat could use push messages about the risks of high sedentary time, health benefits of 7,500 steps etc. to make users more active during the day. As CDC explains, the more steps you walk the lower the mortality rate.
+* To improve sleep time, a feature (bedtime mode) can be created where users are allowed to set a prefered  bedtime and and receive notifications just before that time. It will also include helpful resources such as relaxing music etc.
+* We could create a gamified system on the app where users can earn rewards based on their daily step count to increase motivation and engagement.
 
 
 
